@@ -30,5 +30,5 @@ Hi, im currently an IT student learning web developpement and more related to it
 
 ### 📊 Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=roucky44)](https://github.com/roucky44/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=roucky44&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=cobalt)](https://github.com/roucky44/github-readme-stats)
 
