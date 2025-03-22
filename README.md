@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roucky44.roucky44&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roucky44.roucky44&left_color=indianred&right_color=dodgerblue"  />
 </div>
 
 ###
@@ -79,7 +79,6 @@
 </div>
 
 ###
----
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
@@ -117,6 +116,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/roucky44/roucky44/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roucky44/roucky44/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roucky44/roucky44/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/roucky44/roucky44/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
