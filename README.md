@@ -92,7 +92,7 @@
   <img width="12" />
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)" height="40" alt="filezilla logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" height="40" alt="git logo"  />
   <img width="12" />
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)" height="40" alt="mongodb logo"  />
   <img width="12" />
