@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">😎 Lucas Audoubert</h1>
+😎[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F7F7F7&width=435&lines=Lucas+Audoubert)](https://git.io/typing-svg)
 
 ###
 
